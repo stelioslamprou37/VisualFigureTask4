@@ -1,0 +1,31 @@
+GO_Term,Category,neg_log10_pvalue,q_value
+Regulation of osteoblast proliferation,BP,3.6,0.025
+Osteoblast proliferation,BP,3.5,0.025
+Positive regulation of osteoblast proliferation,BP,2.95,0.05
+Establishment of planar polarity involved in neural,BP,3.0,0.05
+Tube closure established of planar polarity of embryonic epithelium,BP,3.0,0.05
+Detection of mechanical stimulus involved in sensory perception of sound,BP,2.95,0.05
+Negative regulation of Wnt signaling pathway,BP,4.4,0.05
+Trabecule formation,BP,3.0,0.05
+Response to prostaglandin E,BP,2.95,0.05
+Cell eggregation,BP,2.95,0.05
+Collagen trimer,CC,3.35,0.025
+Microvillus,CC,3.35,0.025
+Microvillus mebrane,CC,2.4,0.025
+Collagen-containing extracellular matrix,CC,4.0,0.05
+Intermediate filament,CC,3.35,0.05
+Actin-based cell projection,CC,3.35,0.05
+Cell-cell junction,CC,4.05,0.05
+Intermediate filament cytoskeleton,CC,3.35,0.05
+Fibrillar collagen trimer,CC,1.3,0.075
+Banded collagen fibril,CC,1.25,0.075
+Wnt-protein binding,MF,3.2,0.025
+Heaparin binding,MF,4.0,0.025
+Intermediate filament binding,MF,2.35,0.025
+Transmembrane receptor protein kinase activity,MF,3.2,0.025
+Transmembrane receptor protein serine/threonine kinase activity,MF,2.35,0.025
+Glycosaminoglycan binding,MF,4.0,0.025
+Structural constituent of cytoskeleton,MF,3.2,0.025
+Sulfur compound binding,MF,4.0,0.025
+Cytokine binding,MF,3.2,0.025
+Frizzled binding,MF,2.35,0.025

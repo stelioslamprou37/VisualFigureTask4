@@ -1,1 +1,0 @@
-# VisualFigureTask4
