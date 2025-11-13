@@ -1,0 +1,24 @@
+{
+  "title": "Gene Ontology (GO) Enrichment Analysis Bar Chart - Multi-Panel Faceted Visualization",
+  "description": "Recreation of a Gene Ontology enrichment analysis horizontal bar chart showing significantly enriched terms across three categories: Biological Process (BP), Cellular Component (CC), and Molecular Function (MF). The visualization uses -log10(p-value) on the x-axis and color-codes bars by q-value (FDR-adjusted p-value) using a blue-to-red gradient.",
+  "figure_type": "Faceted horizontal bar chart with gradient color encoding",
+  "categories": [
+    "BP (Biological Process)",
+    "CC (Cellular Component)",
+    "MF (Molecular Function)"
+  ],
+  "total_terms": 30,
+  "analysis_type": "Gene Ontology enrichment analysis",
+  "statistical_measures": [
+    "-log10(p-value)",
+    "q-value (FDR)"
+  ],
+  "data_source": "Digitalized from published figure",
+  "visualization_features": [
+    "Faceted panels by GO category",
+    "Horizontal bars ordered by significance",
+    "Color gradient representing q-value (blue=high significance, red=low significance)",
+    "Grid lines for readability"
+  ],
+  "key_findings": "Top enriched terms include osteoblast proliferation regulation (BP), cell-cell junction (CC), and glycosaminoglycan binding (MF)"
+}
